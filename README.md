@@ -1,4 +1,4 @@
-### Portfolio-for-Sylvia-Maguina
+### Portfolio for Sylvia-Maguina
 *** 
 Collection of my contributions and coding creations.
 
@@ -26,8 +26,7 @@ This repository contains my solutions to programming challenges that I solved.
 #### Python
 * Building a [SQLite database](https://github.com/SMaguina/Python-GUI-Apps/tree/master/Final%20Project) with Python 2
 * wxPython Graphical UI Application Scripts for [Software Prototyping Project](https://github.com/SMaguina/Python-GUI-Apps/tree/master/WxPython)
-* Tkinter Graphical UI Application Scripts for [Software Prototyping](https://github.com/SMaguina/Python-GUI-Apps/tree/master/Tkinter)
-* 
+* Tkinter Graphical UI Application Scripts for [Software Prototyping Project](https://github.com/SMaguina/Python-GUI-Apps/tree/master/Tkinter)
 
 #### C\# 
 * Coded a [Product Inventory Single Page Application](https://github.com/SMaguina/CSharp-Projects)
