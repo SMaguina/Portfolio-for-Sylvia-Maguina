@@ -1,4 +1,4 @@
-### Portfolio for Sylvia-Maguina
+### Portfolio for Sylvia Maguina
 *** 
 Collection of my contributions and coding creations.
 
