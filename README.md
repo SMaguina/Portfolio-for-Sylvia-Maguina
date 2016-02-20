@@ -22,6 +22,7 @@ This repository contains my solutions to programming challenges that I solved.
 * Angular.js [Single Page Application projects](https://github.com/SMaguina/Angular.js-Apps)
 * Built [Vino Wine Directory SPA](https://github.com/SMaguina/Vino-Sommelier-App)
 * React.js [Applications and Scripts](https://github.com/SMaguina/React.js-Apps)
+* JSON Carousel with jQuery [on Mustache.js](https://github.com/SMaguina/Angular.js-Apps/tree/master/JSON/JSON%20Carousel)
 
 #### Python
 * Building a [SQLite database](https://github.com/SMaguina/Python-GUI-Apps/tree/master/Final%20Project) with Python 2
