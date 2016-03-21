@@ -32,6 +32,7 @@ This repository contains my solutions to programming challenges that I solved.
 #### C\# 
 * Coded a [Product Inventory Single Page Application](https://github.com/SMaguina/CSharp-Projects)
 * Automation Challenge: [24/7 Automated File Transfer Script](https://github.com/SMaguina/CSharp-Projects)
+* ASP.NET 5 MVC 6 [Blog Engine App](https://github.com/SMaguina/CSharp-Projects/tree/master/Coding-Practicals/ASP.NET-5)
 
 #### Team Projects
 * Live-Project: [ASP.NET MVC Study Abroad Project](https://github.com/SMaguina/Study-Abroad-Project)
