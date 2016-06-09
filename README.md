@@ -14,6 +14,9 @@ This repository contains my solutions to programming challenges that I solved.
 * Coded HTML/CSS/jQuery [Portfolio site](https://github.com/SMaguina/Jimito)
 * Responsive [Email Marketing Template Project](https://github.com/SMaguina/Responsive-Email-Marketing-Template-Project)
 
+#### Wordpress
+* [Tipping Point Media Blog Site](http://tippingpointmediastudios.com)
+
 #### SQL Database
 * Built a [SQL Library Database](https://github.com/SMaguina/SQL-Databases) Project
 * Coded Sqlite3 with [Python Terminal Application](https://github.com/SMaguina/SQL-Databases)
