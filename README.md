@@ -4,7 +4,7 @@ Collection of my contributions and coding creations.
 
 ### A collection of coding creations.
 
-I love creating solutions to problems whether it is personal or technical. Learning and coding are a lot like running marathons, its hard work but well worth the reward. Learn more about my professional experience on [LinkedIn](https://www.linkedin.com/in/sylviamaguina). I also have a [blog](http://codepen.io/SMaguina/posts/) about my experience in the development community.
+I love creating solutions to problems whether it is personal or technical. Learning and coding are a lot like running marathons, its hard work but well worth the reward. Learn more about my professional experience on [LinkedIn](https://www.linkedin.com/in/sylviamaguina). I also have a [blog](http://tippingpointmediastudios.com) about my experience in the development community and do video tutorials.
 
 This repository contains my solutions to programming challenges that I solved.
 
@@ -38,5 +38,6 @@ This repository contains my solutions to programming challenges that I solved.
 * ASP.NET 5 MVC 6 [Blog Engine App](https://github.com/SMaguina/CSharp-Projects/tree/master/Coding-Practicals/ASP.NET-5)
 
 #### Team Projects
+* MyChoice Rewards Loyalty Program Responsive Redesign and UX/UI Improvements (proprietary software)
 * Live-Project: [ASP.NET MVC Study Abroad Project](https://github.com/SMaguina/Study-Abroad-Project)
 * Code for America - Project [Veteran Ready](https://github.com/SMaguina/Portfolio-for-Sylvia-Maguina/tree/master/Team-Projects/Code-For-America/Veteran-Ready)
