@@ -38,7 +38,9 @@ This repository contains my solutions to programming challenges that I solved.
 * ASP.NET 5 MVC 6 [Blog Engine App](https://github.com/SMaguina/CSharp-Projects/tree/master/Coding-Practicals/ASP.NET-5)
 
 #### Team Projects
-* MyChoice Rewards Loyalty Program Responsive Redesign and UX/UI Improvements (proprietary software)
+* [MyChoice Rewards](http://www.sylviamaguina.com/nest) Loyalty Program Responsive Redesign and UX/UI Improvements (proprietary software)
 * Ryse Website Creation [link](http://www.rysenightclub.com/)
 * Live-Project: [ASP.NET MVC Study Abroad Project](https://github.com/SMaguina/Study-Abroad-Project)
 * Code for America - Project [Veteran Ready](https://github.com/SMaguina/Portfolio-for-Sylvia-Maguina/tree/master/Team-Projects/Code-For-America/Veteran-Ready)
+
+
