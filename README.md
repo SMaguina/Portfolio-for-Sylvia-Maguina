@@ -40,6 +40,8 @@ This repository contains my solutions to programming challenges that I solved.
 #### Team Projects
 * [MyChoice Rewards](http://www.sylviamaguina.com/nest) Loyalty Program Responsive Redesign and UX/UI Improvements (proprietary software)
 * Ryse Website Creation [link](http://www.rysenightclub.com/)
+* PNK Corporate Website (https://www.pnk.com/)
+* Meadows Gaming Website (https://www.meadowsgaming.com/)
 * Live-Project: [ASP.NET MVC Study Abroad Project](https://github.com/SMaguina/Study-Abroad-Project)
 * Code for America - Project [Veteran Ready](https://github.com/SMaguina/Portfolio-for-Sylvia-Maguina/tree/master/Team-Projects/Code-For-America/Veteran-Ready)
 
