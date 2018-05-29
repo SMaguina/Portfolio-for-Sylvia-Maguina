@@ -8,6 +8,9 @@ I love creating solutions to problems whether it is personal or technical. Learn
 
 This repository contains my solutions to programming challenges that I solved.
 
+#### Portfolio Site
+* [Personal Portfolio](http://www.sylviamaguina.com) site designed and developed
+
 #### HTML & CSS
 * Built [Task.ly Bootstrap Website](https://github.com/SMaguina/Task.ly) 
 * Responsive HTML/CSS/Javascript [Personal Portfolio Site](https://github.com/SMaguina/Laki)
