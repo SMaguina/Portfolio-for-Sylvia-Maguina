@@ -18,7 +18,7 @@ This repository contains my solutions to programming challenges that I solved.
 * Responsive [Email Marketing Template Project](https://github.com/SMaguina/Responsive-Email-Marketing-Template-Project)
 
 #### Wordpress
-* [Tipping Point Media Blog Site](http://tippingpointmediastudios.com)
+* [Tipping Point Media Site](http://tippingpointmediastudios.com) - Tech Blog
 
 #### SQL Database
 * Built a [SQL Library Database](https://github.com/SMaguina/SQL-Databases) Project
